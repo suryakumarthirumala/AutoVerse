@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoVerse: 3D Virtual Car Showroom
 
 Full-stack college mini-project: **React + Vite + React Three Fiber** frontend, **Flask + PostgreSQL** backend with JWT auth.
@@ -63,3 +64,6 @@ See `frontend/public/models/README.md` and `frontend/public/images/README.md`. A
 
 ## Screenshots
 Add screenshots to `docs/` and link them here after running the app.
+=======
+# AutoVerse
+>>>>>>> 105fb8431535228d21de07ed87cfa3227431db57
