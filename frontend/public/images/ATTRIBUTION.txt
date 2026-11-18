@@ -1,0 +1,17 @@
+Photo attributions
+
+porsche-911.jpg
+  "2013 Porsche 911 Carrera 4S (991)" by David Villarreal Fernandez
+  Source: https://commons.wikimedia.org/wiki/File:2013_Porsche_911_Carrera_4S_(991)_(9626546987).jpg
+  License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+
+bmw-m4.jpg
+  "2021 BMW M4 Competition Auto" by Calreyn88
+  Source: https://commons.wikimedia.org/wiki/File:2021_BMW_M4_Competition_Auto.jpg
+  License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+audi-r8.jpg
+  Image supplied by the user.
+
+ferrari-f8.jpg
+  Image supplied by the user.
